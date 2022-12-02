@@ -12,6 +12,7 @@
 
 - Webpack - v5.0.0
 - Linters (ESLint, Stylelint, Webhint)
+- gh-pages (deployment)
 
 ## Live Demo
 
