@@ -6,7 +6,7 @@
 
 - HTML - HTML5
 - CSS - CSS3
-- JavaScript - Es6
+- JavaScript - ES6
 
 ## Additional Used
 
@@ -25,25 +25,21 @@ To get a local copy up and running follow these simple example steps.
 git clone git@github.com:Bondok6/my-notion.git
 ```
 
-Then
-
 ```bash
 cd my-notion
 ```
 
-Then run this command to install packages
+Then run this command to install all dependencies (packages)
 
 ```bash
 npm install
 ```
 
-Then run this command to start the server
+Finally run this command to start the server
 
 ```bash
 npm start
 ```
-
-Finally `npm start`
 
 ## Authors
 
