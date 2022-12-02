@@ -52,15 +52,15 @@ Finally `npm start`
 - GitHub: [@Bondok6](https://github.com/Bondok6)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
+## Acknowledgments
+
+- Inspired by @Helpjuice Company for their "Front-end test project"
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
 
 ## 📝 License
 
