@@ -18,7 +18,6 @@
   "bugs": {
     "url": "https://github.com/Bondok6/my-notion/issues"
   },
-  "homepage": "https://github.com/Bondok6/my-notion#readme",
   "devDependencies": {
     "@babel/plugin-transform-modules-commonjs": "^7.16.8",
     "babel-eslint": "^10.1.0",
