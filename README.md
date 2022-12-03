@@ -16,7 +16,7 @@
 
 ## Live Demo
 
-[live Demo]()
+[live Demo](http://kyrillos.me/my-notion/)
 
 ## Getting Started
 
