@@ -16,10 +16,10 @@
 
 ## Live Demo
 
-[live Demo](http://kyrillos.me/my-notion/)
+[Live Demo Link](http://kyrillos.me/my-notion/)
 
 ## Live Video
-[video Demo]()
+[Video Demo Link](https://www.loom.com/share/5b552c49f2fb4506bbc9bed7b9f1e7bb)
 
 ## Getting Started
 
