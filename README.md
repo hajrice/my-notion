@@ -1,6 +1,6 @@
 # My Notion
 
-> ### It's a test/challenge project, I built a simple Notion-like editor which has the ability to Create H1 text simply by typing / then 1, then typing the text, and hitting enter.
+> ### It's a test/challenge project, I built a simple editor like notion which has the ability to Create H1, H2, P text simply by typing / then 1, then typing the text, and hitting enter. You can also select the h1, h2, p option from the list of options that appears when you type `/`.
 
 ## Built With
 
@@ -17,6 +17,9 @@
 ## Live Demo
 
 [live Demo](http://kyrillos.me/my-notion/)
+
+## Live Video
+[video Demo]()
 
 ## Getting Started
 
