@@ -47,17 +47,19 @@ nav ul li {
 }
 
 nav ul li:nth-child(1),
-nav ul li:nth-child(2) {
+nav ul li:nth-child(2),
+nav ul li:nth-child(3) {
   border-right: 1px solid #e0e0e0;
   padding-right: 1rem;
 }
 
-nav ul li:nth-child(3) {
+nav ul li:nth-child(4) {
   margin-right: auto;
 }
 
 nav img {
   width: 25px;
+  height: 25px;
 }
 
 /* __________________________ End Header________________________ */
@@ -147,3 +149,27 @@ hr {
 }
 
 /* _____________________ End POPUP ________________ */
+
+/* ____________________ Js Classes ________________ */
+
+.h1 {
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.p {
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+/* Media Screen */
+@media screen and (max-width: 768px) {
+  .container {
+    width: 95%;
+  }
+}

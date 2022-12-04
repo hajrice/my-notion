@@ -10,7 +10,7 @@ const createPopup = (currentInput) => {
       <h4>Basic Blocks</h4>
     </div>
     <ul class="popup__list">
-      <li class="popup__item heading-1">
+      <li class="popup__item">
         <img src="${textIcon}" alt="heading icon" width="30">
         <div>
           <h4>Heading 1</h4>
@@ -24,6 +24,13 @@ const createPopup = (currentInput) => {
           <p>Medium Section heading</p>
         </div>
       </li>
+      <li class="popup__item">
+      <img src="${textIcon}" alt="heading icon" width="30">
+      <div>
+        <h4>Paragraph</h4>
+        <p>Normal text</p>
+      </div>
+    </li>
     </ul>
   </div>`;
 
@@ -38,10 +45,5 @@ const removePopup = () => {
     flag = false;
   }
 };
-
-document.addEventListener('click', (e) => {
-  if (e.target.closest('.input')) return;
-  removePopup();
-});
 
 export { createPopup, removePopup };

@@ -15,6 +15,9 @@
     "no-param-reassign": "off",
     "eol-last": "off",
     "import/no-unresolved": "off",
+    "operator-linebreak": "off",
+    "comma-dangle": "off",
+    "no-unused-expressions": "off",
     "import/extensions": [
       1,
       {
