@@ -1,4 +1,4 @@
 import './style.css';
+import handleInput from './modules/handleInput.js';
 
-const h1 = document.getElementsByTagName('h1');
-h1[0].innerHTML = 'Hello World';
+handleInput();
